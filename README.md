@@ -1,4 +1,4 @@
-# Pull-Request-Submission-Checklist
+# Pull Request Submission Checklist
 
 ## General
 
