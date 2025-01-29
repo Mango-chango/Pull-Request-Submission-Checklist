@@ -36,6 +36,7 @@
     - [ ]  Screenshots of UI changes (if applicable)
     - [ ]  A testing guide for reviewers
     - [ ]  A brief summary of the changes
+    - [ ]  Follow the MC official PR template (https://sites.google.com/mangochango.com/knowledge-repository/templates-presentations/pr-template)
 - [ ]  Update API documentation (Swagger, OpenAPI, README) if applicable.
 - [ ]  Ensure user-facing documentation is updated if necessary.
 
